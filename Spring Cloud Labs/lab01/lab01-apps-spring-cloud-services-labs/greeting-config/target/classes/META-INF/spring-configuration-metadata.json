@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "greeting",
+    "type": "io.pivotal.greeting.GreetingProperties",
+    "sourceType": "io.pivotal.greeting.GreetingProperties"
+  }],
+  "properties": [{
+    "name": "greeting.display-fortune",
+    "type": "java.lang.Boolean",
+    "sourceType": "io.pivotal.greeting.GreetingProperties",
+    "defaultValue": false
+  }],
+  "hints": []
+}

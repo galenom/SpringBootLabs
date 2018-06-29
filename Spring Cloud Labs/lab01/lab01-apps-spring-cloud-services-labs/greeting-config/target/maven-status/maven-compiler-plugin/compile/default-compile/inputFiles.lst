@@ -1,0 +1,7 @@
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/greeting/GreetingController.java
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/quote/QuoteController.java
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/quote/Quote.java
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/quote/QuoteService.java
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/GreetingConfigApplication.java
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/fortune/FortuneService.java
+/Users/mariogaleno/Documents/SpringBootLabs/Spring Cloud Labs/lab01/lab01-apps-spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/greeting/GreetingProperties.java
