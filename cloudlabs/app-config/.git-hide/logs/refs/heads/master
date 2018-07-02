@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 72e68ef9663656cd3d5b9bf998d62afed14219ea Mario Galeno <mgaleno@solstice.com> 1530470115 -0500	commit (initial): lab 01
+72e68ef9663656cd3d5b9bf998d62afed14219ea 49c442319a4ef0c7599d01de4152f156fc3d0777 Mario Galeno <mgaleno@solstice.com> 1530470537 -0500	commit: lab 01 securit config
+49c442319a4ef0c7599d01de4152f156fc3d0777 dbe532a877330b698dd02df5965cea1281f477d7 Mario Galeno <mgaleno@solstice.com> 1530470559 -0500	pull origin master: Merge made by the 'recursive' strategy.
+dbe532a877330b698dd02df5965cea1281f477d7 f9ed675be1523847a77a74ca7edf0d45e58f7db6 Mario Galeno <mgaleno@solstice.com> 1530471915 -0500	commit: Add quote service url
+f9ed675be1523847a77a74ca7edf0d45e58f7db6 3c021d85201a530cdf6131eb099e1534d27a7341 Mario Galeno <mgaleno@solstice.com> 1530472310 -0500	commit: Enabled fortunes
+3c021d85201a530cdf6131eb099e1534d27a7341 2b68fa4592336cd1f67674e8e3f7b5509db3141a Mario Galeno <mgaleno@solstice.com> 1530474281 -0500	commit: Solstice QA url
+2b68fa4592336cd1f67674e8e3f7b5509db3141a a5439cd7a80a720a3b88c5da2365b36e1c5e250a Mario Galeno <mgaleno@solstice.com> 1530476748 -0500	commit: INFO log level
+a5439cd7a80a720a3b88c5da2365b36e1c5e250a 4fa9e4285b94c0d9d0d8b2e9c24a2c904f42ce64 Mario Galeno <mgaleno@solstice.com> 1530480540 -0500	commit: Add application.yml
